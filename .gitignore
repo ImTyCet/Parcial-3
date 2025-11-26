@@ -1,0 +1,5 @@
+*.exe
+.idea/
+exes/
+carritos.txt
+carritos_guardados.txt
